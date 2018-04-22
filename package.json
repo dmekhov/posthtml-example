@@ -1,0 +1,30 @@
+{
+  "name": "posthtml-example",
+  "version": "1.0.0",
+  "description": "example of project with posthtml templates",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmekhov/posthtml-example.git"
+  },
+  "author": "dmekhov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmekhov/posthtml-example/issues"
+  },
+  "homepage": "https://github.com/dmekhov/posthtml-example#readme",
+  "devDependencies": {
+    "gulp": "^4.0",
+    "gulp-posthtml": "^3.0.4",
+    "posthtml-bem": "^0.2.2",
+    "posthtml-custom-elements": "^1.1.1",
+    "posthtml-textr": "^1.0.5",
+    "typographic-single-spaces": "^1.0.2",
+    "posthtml-retext": "^0.1.0",
+    "retext-emoji": "^2.0.0",
+    "retext": "^2.0.0"
+  }
+}
