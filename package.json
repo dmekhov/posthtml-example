@@ -1,6 +1,6 @@
 {
   "name": "posthtml-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "example of project with posthtml templates",
   "main": "index.html",
   "scripts": {
@@ -21,7 +21,7 @@
     "gulp-posthtml": "^3.0.4",
     "posthtml-bem": "^0.2.2",
     "posthtml-custom-elements": "^1.1.1",
-    "posthtml-extend": "^0.2.1",
+    "posthtml-extend": "^0.3.0",
     "posthtml-retext": "^0.1.0",
     "posthtml-textr": "^1.0.5",
     "retext": "^2.0.0",
